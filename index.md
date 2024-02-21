@@ -7,3 +7,7 @@ Made updates to header
 ``` javascript
 var myVar = "Hello World!";
 ```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the world
